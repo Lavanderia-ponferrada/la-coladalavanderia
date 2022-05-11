@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Facebook",
+      "link": "https://www.facebook.com/Lacoladaponferrada",
+      "image": "images/social/facebook.svg"
+    },
+    {
+      "name": "Twitter",
+      "link": "https://twitter.com/Lacoladaponfe",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/lacoladalavanderiaponferrada",
+      "image": "images/social/instagram.svg"
+    },
+    {
+      "name": "Youtube",
+      "link": "https://www.youtube.com/channel/UC692f4ZE0rRIpdtjmf_QnCQ",
+      "image": "images/social/youtube.svg"
+    },
+    {
+      "name": "Pinterest",
+      "link": "https://www.pinterest.es/lacoladalavanderiaponferrada",
+      "image": "images/social/pinterest.svg"
+    },
+    {
+      "name": "Blog",
+      "link": "https://lacolada-lavanderia-ponferrada.blogspot.com",
+      "image": "images/social/blog.svg"
+    },
+    {
+      "name": "Linkedin",
+      "link": "https://www.linkedin.com/company/lacolada-lavanderia-autoservicio-ponferrada",
+      "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "Maps",
+      "link": "https://g.page/r/CTAOc8XVph6OEAE",
+      "image": "images/social/maps.svg"
+    }
+  ]

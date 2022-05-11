@@ -1,0 +1,39 @@
+[
+  {
+    "name": "lavado",
+    "title": "Sin aportar productos de lavado",
+    "description": "Nosotros ponemos el oxigeno acitvo detergente y suavizante.",
+    "image": "images/lavar.svg"
+  },
+  {
+    "name": "precio barato",
+    "title": "Lava por 4€ y Seca por tan sólo 2€",
+    "description": "Lava en 35 minutos y seca en sólo 16 minutos.",
+    "image": "images/money.svg"
+  },
+  {
+    "name": "wifi gratis",
+    "title": "Wifi y aparcamiento gratis",
+    "description": "Conexión Wifi gratuita y aparcamiento sin coste en la zona.",
+    "image": "images/wifi.svg"
+  },
+  {
+    "name": "albergue san nicolas de flue",
+    "title": "Albergue de Peregrinos Sán Nicolas de Flue",
+    "description": "A 5 minutos a pie.",
+    "image": "images/hotel2.svg"
+  },
+  {
+    "name": "hotel ac",
+    "title": "Hotel AC Ponferrada y Bar Rabel y Albergue Iguana",
+    "description": "A 5 minutos a pie.",
+    "image": "images/hotel.svg"
+
+  },
+  {
+    "name": "castillo de los templarios",
+    "title": "Castillo de los Templarios de Ponferrada",
+    "description": "A 10 minutos a pie",
+    "image": "images/castillo.svg"
+  }
+]
