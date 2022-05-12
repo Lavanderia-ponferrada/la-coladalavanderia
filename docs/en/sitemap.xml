@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/Lavanderia-ponferrada/lacolada1/en/categories/</loc>
+    <loc>https://github.com/Lavanderia-ponferrada/la-coladaponferrada/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/Lavanderia-ponferrada/lacolada1/categories/"
+                href="https://github.com/Lavanderia-ponferrada/la-coladaponferrada/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/Lavanderia-ponferrada/lacolada1/en/categories/"
+                href="https://github.com/Lavanderia-ponferrada/la-coladaponferrada/en/categories/"
                 />
   </url><url>
-    <loc>https://github.com/Lavanderia-ponferrada/lacolada1/en/</loc>
+    <loc>https://github.com/Lavanderia-ponferrada/la-coladaponferrada/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/Lavanderia-ponferrada/lacolada1/"
+                href="https://github.com/Lavanderia-ponferrada/la-coladaponferrada/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/Lavanderia-ponferrada/lacolada1/en/"
+                href="https://github.com/Lavanderia-ponferrada/la-coladaponferrada/en/"
                 />
   </url><url>
-    <loc>https://github.com/Lavanderia-ponferrada/lacolada1/en/tags/</loc>
+    <loc>https://github.com/Lavanderia-ponferrada/la-coladaponferrada/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/Lavanderia-ponferrada/lacolada1/tags/"
+                href="https://github.com/Lavanderia-ponferrada/la-coladaponferrada/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/Lavanderia-ponferrada/lacolada1/en/tags/"
+                href="https://github.com/Lavanderia-ponferrada/la-coladaponferrada/en/tags/"
                 />
   </url>
 </urlset>
